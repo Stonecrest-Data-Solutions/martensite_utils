@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message NDArrayProto {
+  repeated int64 shape = 1;
+  bytes data = 2;
+  string dtype = 3;
+}
