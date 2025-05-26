@@ -18,7 +18,7 @@ classifiers = [
     "Development Status :: 2 - Pre-Alpha"
 ]
 
-version = "0.0.1"
+version = "0.0.2"
 dependencies = [
     "certifi==2025.4.26",
     "charset-normalizer==3.4.1",
